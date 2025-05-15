@@ -1,0 +1,3 @@
+<a href="https://youtube.com" target="_blank">
+  <img src="https://tenor.com/en-GB/view/cat-gif-5391684814828595395" alt="Click Me">
+</a>
